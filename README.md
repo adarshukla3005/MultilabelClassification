@@ -9,6 +9,7 @@ A complete solution for training and running multilabel image classification wit
 - **Trained model** (model.pth) - 44.8 MB ResNet18 model
 - **Loss curve** (loss_plot.png) - Training visualization
 - **Dataset** (images/) - 972 training images with labels
+- **Labels** Labels.txt file contains the label info
 
 ## Quick Start
 
